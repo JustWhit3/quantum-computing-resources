@@ -9,6 +9,9 @@
 - [Quantum annealing](#quantum-annealing)
   - [Books](#books)
   - [Papers](#papers)
+- [Quantum cryptography](#quantum-cryptography)
+  - [Papers](#papers)
+  - [Videos](#videos)
 
 ## Quantum computing
 
@@ -48,6 +51,16 @@
   - Authors: Kyle Cormier, Riccardo Di Sipioa and Peter Wittek
   - Length: 8 pages
 
+## Quantum cryptography
+
+### Papers
+
 - [*Breaking RSA Security With A Low Noise D-Wave 2000Q Quantum Annealer: Computational Times, Limitations And Prospects*](https://arxiv.org/pdf/2005.02268.pdf)
   - Authors: Riccardo Mengoni, Daniele Ottaviani and Paolino Iorio
   - Length: 8 pages
+
+### Videos
+
+- [*How Quantum Computers Break Encryption | Shor's Algorithm Explained*](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
+  - Author: MinutePhysics
+  - Length: 17:30 min
