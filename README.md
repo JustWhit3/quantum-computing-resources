@@ -37,6 +37,14 @@
   - Organizer: CINECA
   - Length: 35 hours
 
+- [*Basics of quantum information*](https://learning.quantum.ibm.com/course/basics-of-quantum-information)
+  - Organizer: IBM
+  - Length: 4 lessons
+
+- [*Fundamentals of quantum algorithms*](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms)
+  - Organizer: IBM
+  - Length: 4 lessons
+
 ## Quantum annealing
 
 ### Books
