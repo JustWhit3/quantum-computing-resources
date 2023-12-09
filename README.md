@@ -6,6 +6,8 @@
   - [Books](#books)
   - [Papers](#papers)
   - [Courses](#courses)
+- [Quantum hardware](#quantum-hardware)
+  - [Papers](#papers)
 - [Quantum annealing](#quantum-annealing)
   - [Books](#books)
   - [Papers](#papers)
@@ -44,6 +46,14 @@
 - [*Fundamentals of quantum algorithms*](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms)
   - Organizer: IBM
   - Length: 4 lessons
+
+## Quantum hardware
+
+### Papers
+
+- [*The Physical Implementation of Quantum Computation*](https://arxiv.org/abs/quant-ph/0002077)
+  - Authors: David P. DiVincenzo
+  - Length: 9 pages
 
 ## Quantum annealing
 
