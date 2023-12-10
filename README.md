@@ -8,6 +8,7 @@
   - [Courses](#courses)
 - [Quantum hardware](#quantum-hardware)
   - [Papers](#papers)
+  - [Courses](#courses)
 - [Quantum annealing](#quantum-annealing)
   - [Books](#books)
   - [Papers](#papers)
@@ -31,10 +32,6 @@
 
 ### Courses
 
-- [*The Hardware of a Quantum Computer*](https://www.edx.org/learn/quantum-computing/delft-university-of-technology-the-hardware-of-a-quantum-computer)
-  - Organizer: EDX
-  - Length: 42 hours
-
 - [*Introduction to Quantum Computing School*](https://eventi.cineca.it/en/hpc/introduction-quantum-computing-school/bologna-20230605)
   - Organizer: CINECA
   - Length: 35 hours
@@ -54,6 +51,12 @@
 - [*The Physical Implementation of Quantum Computation*](https://arxiv.org/abs/quant-ph/0002077)
   - Authors: David P. DiVincenzo
   - Length: 9 pages
+
+### Courses
+
+- [*The Hardware of a Quantum Computer*](https://www.edx.org/learn/quantum-computing/delft-university-of-technology-the-hardware-of-a-quantum-computer)
+  - Organizer: EDX
+  - Length: 42 hours
 
 ## Quantum annealing
 
