@@ -2,6 +2,7 @@
 
 ## Table of contents
 
+- [Introduction](#introduction)
 - [Quantum computing](#quantum-computing)
   - [Books](#books)
   - [Papers](#papers)
@@ -15,6 +16,10 @@
 - [Quantum cryptography](#quantum-cryptography)
   - [Papers](#papers)
   - [Videos](#videos)
+
+## Introduction
+
+I decided to create this repository because, since quantum computing is a relatively new field of research, the available learning material is still not uniform and fragmented. Here, all the resources I studied so far are grouped in order to keep track of my current status of knowledge about this field, and to share with others useful material which would be difficult to cathegorize otherwise.
 
 ## Quantum computing
 
