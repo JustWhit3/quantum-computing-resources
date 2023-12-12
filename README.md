@@ -16,6 +16,9 @@
 - [Quantum cryptography](#quantum-cryptography)
   - [Papers](#papers)
   - [Videos](#videos)
+- [Quantum machine learning](#quantum-machine-learning)
+  - [Papers](#papers)
+  - [Videos](#videos)
 
 ## Introduction
 
@@ -35,10 +38,6 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Frank Arute, Kunal Arya, Ryan Babbush et al
   - Length: 7 pages
 
-- [*Quantum Approximate Optimization Algorithm: Performance, Mechanism, and Implementation on Near-Term Devices*](https://arxiv.org/pdf/1812.01041.pdf)
-  - Authors: Leo Zhou, Sheng-Tao Wang, Soonwon Choi, et al
-  - Length: 23 pages
-
 ### Courses
 
 - [*Introduction to Quantum Computing School*](https://eventi.cineca.it/en/hpc/introduction-quantum-computing-school/bologna-20230605)
@@ -52,12 +51,6 @@ I decided to create this repository because, since quantum computing is a relati
 - [*Fundamentals of quantum algorithms*](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms)
   - Organizer: IBM
   - Length: 4 lessons
-
-### Videos
-
-- [*Introduction to the Quantum Approximate Optimization Algorithm and Applications*](https://www.youtube.com/watch?v=YpLzSQPrgSc)
-  - Author: Qiskit
-  - Length: 46:55 min
 
 ## Quantum hardware
 
@@ -100,3 +93,17 @@ I decided to create this repository because, since quantum computing is a relati
 - [*How Quantum Computers Break Encryption | Shor's Algorithm Explained*](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
   - Author: MinutePhysics
   - Length: 17:30 min
+
+## Quantum machine learning
+
+### Papers
+
+- [*Quantum Approximate Optimization Algorithm: Performance, Mechanism, and Implementation on Near-Term Devices*](https://arxiv.org/pdf/1812.01041.pdf)
+  - Authors: Leo Zhou, Sheng-Tao Wang, Soonwon Choi, et al
+  - Length: 23 pages
+
+### Videos
+
+- [*Introduction to the Quantum Approximate Optimization Algorithm and Applications*](https://www.youtube.com/watch?v=YpLzSQPrgSc)
+  - Author: Qiskit
+  - Length: 46:55 min
