@@ -53,6 +53,12 @@ I decided to create this repository because, since quantum computing is a relati
   - Organizer: IBM
   - Length: 4 lessons
 
+### Videos
+
+- [*Introduction to the Quantum Approximate Optimization Algorithm and Applications*](https://www.youtube.com/watch?v=YpLzSQPrgSc)
+  - Author: Qiskit
+  - Length: 46:55 min
+
 ## Quantum hardware
 
 ### Papers
