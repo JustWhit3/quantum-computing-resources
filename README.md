@@ -80,6 +80,10 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Kyle Cormier, Riccardo Di Sipioa and Peter Wittek
   - Length: 8 pages
 
+- [*Quantum Annealing in the Transverse Ising Model*](https://arxiv.org/abs/cond-mat/9804280)
+  - Authors: Tadashi Kadowaki and Hidetoshi Nishimori
+  - Length: 23 pages
+
 ## Quantum cryptography
 
 ### Papers
