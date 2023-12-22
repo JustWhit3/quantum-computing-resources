@@ -13,6 +13,7 @@
 - [Quantum annealing](#quantum-annealing)
   - [Books](#books)
   - [Papers](#papers)
+  - [Webpages](#webpages)
 - [Quantum cryptography](#quantum-cryptography)
   - [Papers](#papers)
   - [Videos](#videos)
@@ -22,7 +23,7 @@
 
 ## Introduction
 
-I decided to create this repository because, since quantum computing is a relatively new field of research, the available learning material is still not uniform and fragmented. Here, all the resources I studied so far are grouped in order to keep track of my current status of knowledge about this field, and to share with others useful material which would be difficult to cathegorize otherwise.
+I decided to create this repository because, since quantum computing is a relatively new field of research, the available learning material is still not uniform and fragmented. Here, all the resources I studied so far are grouped in order to keep track of my current status of knowledge about this field, and to share with others useful material which would be difficult to categorize otherwise.
 
 ## Quantum computing
 
@@ -83,6 +84,11 @@ I decided to create this repository because, since quantum computing is a relati
 - [*Quantum Annealing in the Transverse Ising Model*](https://arxiv.org/abs/cond-mat/9804280)
   - Authors: Tadashi Kadowaki and Hidetoshi Nishimori
   - Length: 23 pages
+
+### Webpages
+
+- [*D-Wave System Documentation*](https://github.com/JustWhit3/quantum-computing-resources.git)
+  - Authors: D-Wave Quantum Inc
 
 ## Quantum cryptography
 
