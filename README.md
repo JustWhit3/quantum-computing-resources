@@ -87,7 +87,7 @@ I decided to create this repository because, since quantum computing is a relati
 
 ### Webpages
 
-- [*D-Wave System Documentation*]([https://github.com/JustWhit3/quantum-computing-resources.git](https://docs.dwavesys.com/docs/latest/index.html))
+- [*D-Wave System Documentation*](https://docs.dwavesys.com/docs/latest/index.html)
   - Authors: D-Wave Quantum Inc
 
 ## Quantum cryptography
