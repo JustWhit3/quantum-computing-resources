@@ -112,6 +112,12 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Leo Zhou, Sheng-Tao Wang, Soonwon Choi, et al
   - Length: 23 pages
 
+- [*CaloQVAE: Simulating high-energy particle-calorimeter interactions using hybrid
+quantum-classical generative models*](https://arxiv.org/pdf/2312.03179.pdf)
+  - Authors: Sehmimul Hoque, et al
+  - Length: 6 pages
+
+
 ### Videos
 
 - [*Introduction to the Quantum Approximate Optimization Algorithm and Applications*](https://www.youtube.com/watch?v=YpLzSQPrgSc)
