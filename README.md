@@ -57,9 +57,13 @@ I decided to create this repository because, since quantum computing is a relati
 
 ### Papers
 
-- [*The Physical Implementation of Quantum Computation*](https://arxiv.org/abs/quant-ph/0002077)
+- [*The Physical Implementation of Quantum Computation*](https://arxiv.org/abs/2303.16358)
   - Authors: David P. DiVincenzo
   - Length: 9 pages
+
+- [*Quantum computing with trapped ions: a beginner's guide*](https://arxiv.org/abs/quant-ph/0002077)
+  - Authors: Francesco Bernardini, Abhijit Chakraborty, Carlos Ordóñez
+  - Length: 32 pages
 
 ### Courses
 
