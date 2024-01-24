@@ -82,7 +82,7 @@ I decided to create this repository because, since quantum computing is a relati
 ### Papers
 
 - [*Unfolding as Quantum Annealing*](https://arxiv.org/abs/1908.08519)
-  - Authors: Kyle Cormier, Riccardo Di Sipioa and Peter Wittek
+  - Authors: Kyle Cormier, Riccardo Di Sipio and Peter Wittek
   - Length: 8 pages
 
 - [*Quantum Annealing in the Transverse Ising Model*](https://arxiv.org/abs/cond-mat/9804280)
