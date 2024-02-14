@@ -65,6 +65,10 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Francesco Bernardini, Abhijit Chakraborty, Carlos Ordóñez
   - Length: 32 pages
 
+- [*Superconducting Quantum Computing: A Review*](https://arxiv.org/abs/2006.10433)
+  - Authors: He-Liang Huang, Dachao Wu, Daojin Fan, Xiaobo Zhu
+  - Length: 21 pages
+
 ### Courses
 
 - [*The Hardware of a Quantum Computer*](https://www.edx.org/learn/quantum-computing/delft-university-of-technology-the-hardware-of-a-quantum-computer)
