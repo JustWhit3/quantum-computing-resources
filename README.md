@@ -39,6 +39,10 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Frank Arute, Kunal Arya, Ryan Babbush et al
   - Length: 7 pages
 
+- [*Commercial applications of quantum computing*](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1)
+  - Francesco Bova, Avi Goldfarb & Roger G. Melko
+  - Length: 13 pages
+
 ### Courses
 
 - [*Introduction to Quantum Computing School*](https://eventi.cineca.it/en/hpc/introduction-quantum-computing-school/bologna-20230605)
