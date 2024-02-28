@@ -97,6 +97,10 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Tadashi Kadowaki and Hidetoshi Nishimori
   - Length: 23 pages
 
+- [*Quantum Annealing for Prime Factorization*](https://arxiv.org/abs/1804.02733)
+  - Authors: Shuxian Jiang, Keith A. Britt, Alexander J. McCaskey, Travis S. Humble, Sabre Kais
+  - Length: 12 pages
+
 ### Webpages
 
 - [*D-Wave System Documentation*](https://docs.dwavesys.com/docs/latest/index.html)
