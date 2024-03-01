@@ -133,6 +133,10 @@ quantum-classical generative models*](https://arxiv.org/pdf/2312.03179.pdf)
   - Authors: Sehmimul Hoque, et al
   - Length: 6 pages
 
+- [*Solving various NP-Hard problems using exponentially fewer qubits on a Quantum Computer*](https://arxiv.org/abs/2301.06978)
+  - Authors: Yagnik Chatterjee, Eric Bourreau, Marko J. Rančić
+  - Length: 12 pages
+
 
 ### Videos
 
