@@ -43,6 +43,10 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Francesco Bova, Avi Goldfarb & Roger G. Melko
   - Length: 13 pages
 
+- [*Quantum Fourier Transform using Dynamic Circuits*](https://arxiv.org/abs/2403.09514)
+  - Authors: Elisa Bäumer, Vinay Tripathi, Alireza Seif, Daniel Lidar, Derek S. Wang
+  - Length: 4 pages
+
 ### Courses
 
 - [*Introduction to Quantum Computing School*](https://eventi.cineca.it/en/hpc/introduction-quantum-computing-school/bologna-20230605)
