@@ -14,6 +14,7 @@
   - [Books](#books)
   - [Papers](#papers)
   - [Webpages](#webpages)
+  - [Videos](#videos)
 - [Quantum cryptography](#quantum-cryptography)
   - [Papers](#papers)
   - [Videos](#videos)
@@ -108,6 +109,11 @@ I decided to create this repository because, since quantum computing is a relati
 ### Webpages
 
 - [*D-Wave System Documentation*](https://docs.dwavesys.com/docs/latest/index.html)
+  - Authors: D-Wave Quantum Inc
+
+### Videos
+
+- [*D-Wave System Channel*](https://www.youtube.com/@dwavequantum)
   - Authors: D-Wave Quantum Inc
 
 ## Quantum cryptography
