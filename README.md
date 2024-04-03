@@ -48,6 +48,10 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Elisa Bäumer, Vinay Tripathi, Alireza Seif, Daniel Lidar, Derek S. Wang
   - Length: 4 pages
 
+- [*A versatile single-photon-based quantum computing platform*](https://www.nature.com/articles/s41566-024-01403-4)
+  - Authors: Nicolas Maring, Andreas Fyrillas et al
+  - Length: 9 pages
+
 ### Courses
 
 - [*Introduction to Quantum Computing School*](https://eventi.cineca.it/en/hpc/introduction-quantum-computing-school/bologna-20230605)
