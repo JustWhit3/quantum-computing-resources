@@ -52,6 +52,10 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Nicolas Maring, Andreas Fyrillas et al
   - Length: 9 pages
 
+- [*High-Performance Computing with Quantum Processing Units*](https://arxiv.org/abs/1511.04386)
+  - Authors: Keith A. Britt & Travis S. Humble
+  - Length: 8 pages
+
 ### Courses
 
 - [*Introduction to Quantum Computing School*](https://eventi.cineca.it/en/hpc/introduction-quantum-computing-school/bologna-20230605)
