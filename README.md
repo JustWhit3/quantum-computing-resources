@@ -56,6 +56,10 @@ I decided to create this repository because, since quantum computing is a relati
   - Authors: Keith A. Britt & Travis S. Humble
   - Length: 8 pages
 
+- [*Advancements in Quantum Computing—Viewpoint: Building Adoption and Competency in Industry*](https://link.springer.com/article/10.1007/s13222-024-00467-4)
+  - Authors: Sieglinde M. -L. Pfaendler,  Konstantin Konson, Franziska Greinert
+  - Length: 16 pages
+
 ### Courses
 
 - [*Introduction to Quantum Computing School*](https://eventi.cineca.it/en/hpc/introduction-quantum-computing-school/bologna-20230605)
