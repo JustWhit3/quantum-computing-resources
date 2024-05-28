@@ -158,6 +158,11 @@ quantum-classical generative models*](https://arxiv.org/pdf/2312.03179.pdf)
 
 ### Videos
 
+- [*Quantum AI for Real-World Computational Data: Achieving Breakthrough Prediction Accuracy*](https://www.youtube.com/watch?v=XtOxXQ6fvvg)
+  - Author: Paanduv Applications
+  - Length: 42:00 min
+
+
 - [*Introduction to the Quantum Approximate Optimization Algorithm and Applications*](https://www.youtube.com/watch?v=YpLzSQPrgSc)
   - Author: Qiskit
   - Length: 46:55 min
